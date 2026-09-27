@@ -204,7 +204,6 @@ npm run dev
 
 ### Navjot Singh
 
-B.Tech Student | Full Stack Developer | DevOps Enthusiast
 
 LinkedIn:
 https://www.linkedin.com/in/navjot-mani-66028b359/
@@ -214,6 +213,3 @@ https://github.com/NavMani
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
